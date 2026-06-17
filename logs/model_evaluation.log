@@ -1,9 +1,0 @@
-2026-06-17 15:04:39,144 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2026-06-17 15:04:39,329 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2026-06-17 15:04:39,334 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2026-06-17 15:04:39,344 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2026-06-17 15:04:40,346 - model_evaluation - ERROR - Failed to complete the model evaluation process: Stash apply resulted in merge conflicts
-2026-06-17 15:09:10,949 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2026-06-17 15:09:11,115 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2026-06-17 15:09:11,119 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2026-06-17 15:09:11,128 - model_evaluation - DEBUG - Model evaluation metrics calculated
